@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Leopoldmiszcz 
 - 👀 I’m interested in ur mum
-- 🌱 I’m currently learning frontend 
+- 🌱 I’m currently learning backend
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me leopoldmiszcz1@gmail.com
 
