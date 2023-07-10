@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Leopoldmiszcz 
-- 👀 I’m interested in ur mum
+- 👀 I’m interested in learning python
 - 🌱 I’m currently learning backend
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me leopoldmiszcz1@gmail.com
