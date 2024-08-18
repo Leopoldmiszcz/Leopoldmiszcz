@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Leopoldmiszcz 
-- 👀 I’m interested in learning JavaScript
-- 🌱 I’m currently learning fullstack webdev
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in learning Go
+- 🌱 I’m currently learning backend!
+- 💞️ I’m looking to collaborate on some fun go project!
 - 📫 How to reach me leopoldmiszcz1@gmail.com
 
 <!---
